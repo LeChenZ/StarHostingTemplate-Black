@@ -1,0 +1,120 @@
+body {
+    background: #09080d;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background: #000000;
+}
+
+.navbar-brand, .nav-link {
+    color: #ffffff !important;
+}
+
+.bg-dark-gray {
+    background-color: #1f1e1e !important; /* change background to dark gray */
+}
+
+.jumbotron {
+    background-color: #dc3545;
+    color: #fff;
+    text-align: center;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.card {
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 2px rgba(255, 255, 255, 0.7);
+    background: #272727; /* change card background to black */
+    color: #fff; /* change card text color to white */
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    transform: scale(1.05); 
+}
+
+.card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.btn-primary {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-primary:hover {
+    background-color: #ab2e3b;
+    border-color: #ab2e3b;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #121117 !important; /* change footer background to #121117 */
+    color: #fff; /* change footer text color to white */
+}
+
+
+.social-icon {
+    font-size: 24px;
+    margin: 0 10px;
+    transition: all 0.5s ease;
+}
+
+.social-icon.discord {
+    color: #7289da;
+}
+
+.social-icon.youtube {
+    color: #FF0000;
+}
+
+.social-icon.tiktok {
+    color: #000000;
+    color: #fff;
+    text-shadow:  0 0 3px #fff, 
+    0 0 5px #25f5ef,
+    0 0 7px #fe2c55
+}
+
+.btn.btn-primary {
+    border-radius: 20px;
+  }
+
+.dropdown-menu {
+    border-radius: 20px;
+    background: #272727; /* change card background to black */
+    color: #fff; /* change card text color to white */
+  }
+
+  .dropdown-item {
+    border-radius: 20px;
+    background: #272727; /* change card background to black */
+    color: #fff; /* change card text color to white */
+  }
+
+.btn.btn-primary {
+    border-radius: 20px;
+  }
+
+  .dropdown-menu {
+    border-radius: 20px;
+  }
+
+  .dropdown-item {
+    border-radius: 20px;
+  }
