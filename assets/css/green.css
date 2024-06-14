@@ -12,7 +12,7 @@ body {
 }
 
 .bg-dark-gray {
-    background-color: #1f1e1e !important; /* change background to dark gray */
+    background-color: #1f1e1e !important; 
 }
 
 .jumbotron {
@@ -29,8 +29,8 @@ body {
     transition: 0.3s;
     border-radius: 20px;
     box-shadow: 0 0 10px 2px rgba(255, 255, 255, 0.7);
-    background: #272727; /* change card background to black */
-    color: #fff; /* change card text color to white */
+    background: #272727; 
+    color: #fff; 
 }
 
 .card:hover {
@@ -64,8 +64,8 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #121117 !important; /* change footer background to #121117 */
-    color: #fff; /* change footer text color to white */
+    background-color: #121117 !important;
+    color: #fff; 
 }
 
 
@@ -97,14 +97,14 @@ body {
 
 .dropdown-menu {
     border-radius: 20px;
-    background: #272727; /* change card background to black */
-    color: #fff; /* change card text color to white */
+    background: #272727; 
+    color: #fff; 
   }
 
   .dropdown-item {
     border-radius: 20px;
-    background: #272727; /* change card background to black */
-    color: #fff; /* change card text color to white */
+    background: #272727; 
+    color: #fff; 
   }
 
 .btn.btn-primary {
